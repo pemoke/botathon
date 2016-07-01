@@ -36,10 +36,11 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [Simple hosting platform for Slack and Messenger bots](https://beepboophq.com/)
 * ... (please contribute by a pull request)
 
-### Rules for the world's first international Botathon 2016 on Sat & Sun, July 09 - 10
-* Participants will be chosen:
+### Rules for the world's first international Botathon 2016
+* Participants will be chosen by Thu, July 7:
   * USA & Canada: based on their answers to the Botathon Form: http://bit.ly/VBBotathon2016
   * Australia: Join Meetup group "Chatbots, Messaging and AI (Melbourne)" and RSVP to "VentureBeat Botathon" http://j.mp/292IZ2e (follow-up registration platform will be annouced)
+* Multi-city botathon event: Sat & Sun, July 9 & 10
 * The teams will be freely assembled at the beginning of the Botathon.
 * Participants can use the developer toolkits and bot platform that they want.
 * Participants can not work on a bot that they have already published - but they can re-use any prior work.
