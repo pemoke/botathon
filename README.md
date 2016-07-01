@@ -2,7 +2,7 @@
 ## A hackathon focused on chatbots & AI
 
 Resources for building chatbots (messaging bots) 
-with AI (Artificial Intelligence) platforms
+with AI (Artificial Intelligence) platforms.
 
 ### Intro
 A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI and intelligent messaging (i.e. chatbots), away from apps as we know them. It’s changing the way we use our devices, and it’s allowing brands to intercept customers with more immediacy and ease than ever.
@@ -36,18 +36,33 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [Simple hosting platform for Slack and Messenger bots](https://beepboophq.com/)
 * ... (please contribute by a pull request)
 
-### Webs/blogs/news
+### Rules for the world's first international Botathon 2016
+* Participants will be chosen:
+  * USA & Canada: based on their answers to the Botathon Form: http://bit.ly/VBBotathon2016
+  * Australia: Join Meetup group "Chatbots, Messaging and AI (Melbourne)" and RSVP to "VentureBeat Botathon" http://j.mp/292IZ2e (follow-up registration platform will be annouced)
+* The teams will be freely assembled at the beginning of the Botathon.
+* Participants can use the developer toolkits and bot platform that they want.
+* Participants can not work on a bot that they have already published - but they can re-use any prior work.
+* One team will be selected per city.
+* Local judges will select the local finalists based on 4 criteria: Execution, Innovation, Market Potential, and Usability.
+* Each finalist team will be given a shared booth at MobileBeat, along with a telepresence Robot that they will control to pitch to the attendees and present their bot.
+* The Final winner will be determined by a combination of online voting, MobileBeat participant voting and judges voting
+
+
+### Other resources to read or get inspirations from
+
+#### Webs/blogs/news
 * https://www.chatbots.org/
 * http://www.chatbotsweekly.com/
 * https://googleblog.blogspot.com.au/2016/05/io-building-next-evolution-of-google.html
 * ... (please contribute by a pull request)
 
-### Webinars
+#### Webinars
 * [The business case for bots: Understanding the bot landscape](https://www.brighttalk.com/webcast/12339/207823)
 * [The AI revolution: How artificial intelligence can boost your bottom line](https://www.brighttalk.com/webcast/12339/207825)
 * ... (please contribute by a pull request)
 
-### Chatbot projects / startups
+#### Chatbot projects / startups
 * https://bots.kik.com/
 * [Radically simplifying the world by providing an intelligent interface to everything](http://viv.ai/)
 * [Haptik - Everyone's Personal Assistant](http://haptik.co/)
@@ -57,6 +72,6 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [Stoovo - Your A.I. financial assistant](http://stoovo.com/)
 * ... (please contribute by a pull request)
 
-### Fun :)
+#### Fun :)
 * [Jolly Roger Telephone Company - Our robots talk to telemarketers so that humans don't have to!](http://www.jollyrogertelco.com/)
 * ... (please contribute by any means, we all need more fun - and that's why we are building the AI into our lives, isn't it? ;)
