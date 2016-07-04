@@ -55,7 +55,8 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 #### Webs/blogs/news
 * https://www.chatbots.org/
 * http://www.chatbotsweekly.com/
-* https://googleblog.blogspot.com.au/2016/05/io-building-next-evolution-of-google.html
+* [I/O: Building the next evolution of Google](https://googleblog.blogspot.com.au/2016/05/io-building-next-evolution-of-google.html)
+* [Don’t call them chatbots, call them intelligent assistants](http://venturebeat.com/2016/07/03/dont-call-them-chatbots-call-them-intelligent-assistants/)
 * ... (please contribute by a pull request)
 
 #### Webinars
