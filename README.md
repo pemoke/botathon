@@ -72,6 +72,9 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [Luka - Talk to bots and your friends in the same place: make weekend plans, play games, find restaurants and more](https://luka.ai/)
 * [Amy - AI powered personal assistant for scheduling meetings](https://x.ai/)
 * [Stoovo - Your A.I. financial assistant](http://stoovo.com/)
+* [Natural Language Search for Commerce](http://www.angel.ai/)
+* [Cross-platform deployment utility for bot developers](http://message.io/)
+* [Instantly deploy chat bot solutions anywhere messages can be sent and received](http://www.massively.ai/)
 * ... (please contribute by a pull request)
 
 #### Fun :)
