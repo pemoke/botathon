@@ -21,6 +21,7 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [Twilio IP Messaging](https://www.twilio.com/docs/api/ip-messaging)
 * [Skype Bot Platform](https://developer.microsoft.com/en-us/skype/bots)
 * [Hangouts Bot](https://github.com/hangoutsbot/hangoutsbot)
+* [Rocket.Chat](https://rocket.chat/)
 * ... (please contribute by a pull request) 
 
 ### Chatbots/AI frameworks and related services
