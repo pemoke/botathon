@@ -57,6 +57,7 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * https://www.chatbots.org/
 * http://www.chatbotsweekly.com/
 * [I/O: Building the next evolution of Google](https://googleblog.blogspot.com.au/2016/05/io-building-next-evolution-of-google.html)
+* more also on [Botathon Facebook Page](https://www.facebook.com/Botathon-1766817930231042/)
 * ... (please contribute by a pull request)
 
 #### Webinars
@@ -69,7 +70,7 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 
 #### Chatbot projects / startups
 * https://bots.kik.com/
-* [vav.ai - Radically simplifying the world by providing an intelligent interface to everything](http://viv.ai/)
+* [viv.ai - Radically simplifying the world by providing an intelligent interface to everything](http://viv.ai/)
 * [haptik.co - Everyone's Personal Assistant](http://haptik.co/)
 * [lola - Instant access to a personal travel service for hotels, flights and anything you need for your trip.](https://www.lolatravel.com/)
 * [luka.ai - Talk to bots and your friends in the same place: make weekend plans, play games, find restaurants and more](https://luka.ai/)
