@@ -57,7 +57,6 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * https://www.chatbots.org/
 * http://www.chatbotsweekly.com/
 * [I/O: Building the next evolution of Google](https://googleblog.blogspot.com.au/2016/05/io-building-next-evolution-of-google.html)
-* [Don’t call them chatbots, call them intelligent assistants](http://venturebeat.com/2016/07/03/dont-call-them-chatbots-call-them-intelligent-assistants/)
 * ... (please contribute by a pull request)
 
 #### Webinars
@@ -65,17 +64,20 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [The AI revolution: How artificial intelligence can boost your bottom line](https://www.brighttalk.com/webcast/12339/207825)
 * ... (please contribute by a pull request)
 
+### Social Network
+* [Botathon Facebook Page](https://www.facebook.com/Botathon-1766817930231042/)
+
 #### Chatbot projects / startups
 * https://bots.kik.com/
-* [Radically simplifying the world by providing an intelligent interface to everything](http://viv.ai/)
-* [Haptik - Everyone's Personal Assistant](http://haptik.co/)
+* [vav.ai - Radically simplifying the world by providing an intelligent interface to everything](http://viv.ai/)
+* [haptik.co - Everyone's Personal Assistant](http://haptik.co/)
 * [lola - Instant access to a personal travel service for hotels, flights and anything you need for your trip.](https://www.lolatravel.com/)
-* [Luka - Talk to bots and your friends in the same place: make weekend plans, play games, find restaurants and more](https://luka.ai/)
-* [Amy - AI powered personal assistant for scheduling meetings](https://x.ai/)
+* [luka.ai - Talk to bots and your friends in the same place: make weekend plans, play games, find restaurants and more](https://luka.ai/)
+* [x.ai - Amy - AI powered personal assistant for scheduling meetings](https://x.ai/)
 * [Stoovo - Your A.I. financial assistant](http://stoovo.com/)
-* [Natural Language Search for Commerce](http://www.angel.ai/)
-* [Cross-platform deployment utility for bot developers](http://message.io/)
-* [Instantly deploy chat bot solutions anywhere messages can be sent and received](http://www.massively.ai/)
+* [angel.ai - Natural Language Search for Commerce](http://www.angel.ai/)
+* [message.io - Cross-platform deployment utility for bot developers](http://message.io/)
+* [massively.ai - Instantly deploy chat bot solutions anywhere messages can be sent and received](http://www.massively.ai/)
 * ... (please contribute by a pull request)
 
 #### Fun :)
