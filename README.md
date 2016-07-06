@@ -33,7 +33,7 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [Motion AI](https://www.motion.ai/)
 * [Telegram](https://telegram.org/)
 * [Hubot](https://hubot.github.com/)
-* Amazon (can someone please clarify what exactly they are doing? Something with Echo? I'm always lost in their software/web services)
+* Amazon [Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit) & [Alexa Voice Service](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service) used to write extensions for their Amazon Echo. No Echo? Checkout [Amazon's Alexa for Raspberry PI](https://github.com/amzn/alexa-avs-raspberry-pi) or [Sam Machins Alexa in the browser](http://sammachin.com/hacks-and-projects/alexa-in-the-browser) 
 * [Simple hosting platform for Slack and Messenger bots](https://beepboophq.com/)
 * ... (please contribute by a pull request)
 
