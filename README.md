@@ -39,6 +39,7 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [OpenAI Gym - A toolkit for developing and comparing reinforcement learning algorithms.](https://gym.openai.com/)
 * [Converse.AI - Customer Success for the Messaging Generation](http://www.converse.ai/)
 * [Chatbot.AI](https://chatbot.ai/)
+* [Livebotter - Chatbots people use](http://www.livebotter.com/)
 * ... (please contribute by a pull request)
 
 ### Rules for the world's first international Botathon 2016
