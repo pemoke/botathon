@@ -34,7 +34,11 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * [Telegram](https://telegram.org/)
 * [Hubot](https://hubot.github.com/)
 * Amazon [Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit) & [Alexa Voice Service](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service) used to write extensions for their Amazon Echo. No Echo? Checkout [Amazon's Alexa for Raspberry PI](https://github.com/amzn/alexa-avs-raspberry-pi) or [Sam Machins Alexa in the browser](http://sammachin.com/hacks-and-projects/alexa-in-the-browser) 
-* [Simple hosting platform for Slack and Messenger bots](https://beepboophq.com/)
+* [Beep Boop- a simple hosting platform for Slack and Messenger bots](https://beepboophq.com/)
+* [api.ai](https://api.ai/)
+* [OpenAI Gym - A toolkit for developing and comparing reinforcement learning algorithms.](https://gym.openai.com/)
+* [Converse.AI - Customer Success for the Messaging Generation](http://www.converse.ai/)
+* [Chatbot.AI](https://chatbot.ai/)
 * ... (please contribute by a pull request)
 
 ### Rules for the world's first international Botathon 2016
@@ -58,6 +62,7 @@ A new paradigm is rocking the mobile world. It’s the unstoppable shift to AI a
 * http://www.chatbotsweekly.com/
 * [I/O: Building the next evolution of Google](https://googleblog.blogspot.com.au/2016/05/io-building-next-evolution-of-google.html)
 * more also on [Botathon Facebook Page](https://www.facebook.com/Botathon-1766817930231042/)
+* [OpenAI - a non-profit artificial intelligence research company](https://openai.com/about/)
 * ... (please contribute by a pull request)
 
 #### Webinars
